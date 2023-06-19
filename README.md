@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevUltimateman
+- 👋 Hi, I’m @Ultimateman
 - 👀 I’m interested in coding with  c#, c++ & codscript 
 - 📫 How to reach me: kingultimateman@gmail.com // discord: Ultimateman
 
