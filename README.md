@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Ultimateman
-- 👀 I’m interested in coding with  c#, c++ & codscript 
 - 📫 How to reach me: kingultimateman@gmail.com // discord: Ultimateman @COD Customs https://discord.gg/8bzK5Hu
 - ✨ Just a lazy, everyday working motherfucker biaaatcchzzz
 <!---
